@@ -1,1 +1,3 @@
-vamos a ver si se actualizo
+esto se actualizo desde netbeans
+
+vamos a ver si funciona
