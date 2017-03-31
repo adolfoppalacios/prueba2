@@ -11,3 +11,5 @@ estamos a poco de dominar github
 cambios obtenidos desde git hub
 
 este cambio se hizo desde netbeans
+
+ahora este cambio se hizo desde la pagina git hub, muy util si es un cambio pequeño
