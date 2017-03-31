@@ -9,3 +9,5 @@ posteriormente git push
 estamos a poco de dominar github
 
 cambios obtenidos desde git hub
+
+este cambio se hizo desde netbeans
